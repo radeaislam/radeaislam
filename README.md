@@ -1,5 +1,5 @@
-## Hi there 👋\
-# Hi there
+
+# Hi there!
 
 I'm Radea Islam, an Electrical and Electronic Engineering student interested in robotics and embedded systems.
 
